@@ -1,3 +1,3 @@
 # Clicker
 
-## Pokretanje igre - Clicker.lnk
+## Pokretanje igre - clicker/bin/release/clicker.exe
